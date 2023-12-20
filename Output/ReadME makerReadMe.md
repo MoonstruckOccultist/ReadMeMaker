@@ -5,7 +5,7 @@ When the program in run in node, it will ask the user for a series of questions 
 
 ## Table of Contents
 [Installation](#installation) /
-[Usage](#usage) /
+[Usage](#Usage) /
 [Contributers](#Contributers) /
 
 ## Installation
